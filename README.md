@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CHEMISTRY-344C3F?style=for-the-badge&logo=moleculer&logoColor=D6DFD2" alt="Chemistry"/>
+
 <img src="https://img.shields.io/badge/PYTHON-344C3F?style=for-the-badge&logo=python&logoColor=D6DFD2" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B-344C3F?style=for-the-badge&logo=cplusplus&logoColor=D6DFD2" alt="C++"/>
 
