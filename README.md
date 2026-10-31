@@ -54,17 +54,19 @@ Philosophy: "A calm mind in a chaotic world."
 
 
 
+
+---
+
 ### 03. GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ais-KSA&theme=github_dark" width="420" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ais-KSA&theme=github_dark" width="420" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ais-KSA&theme=github_dark" width="48%" alt="GitHub Statistics"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ais-KSA&theme=github_dark" width="48%" alt="Most Used Languages"/>
 
 </div>
 
 ---
+
 
