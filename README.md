@@ -69,14 +69,4 @@ Philosophy: "A calm mind in a chaotic world."
 
 ---
 
----
 
-### 04. CHEMISTRY REACTION ⚗️
-
-<div align="center">
-
-<img src="./assets/chemistry-reaction.svg" width="100%" alt="Chemistry Reaction Animation"/>
-
-</div>
-
----
