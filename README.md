@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0B,50:344C3F,100:819988&height=190&section=header&text=AIS&fontSize=58&fontColor=D6DFD2&fontAlignY=35&desc=CHEMISTRY%20%E2%80%A2%20CODE%20%E2%80%A2%20CURIOSITY&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="AIS"/>
