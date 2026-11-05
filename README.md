@@ -1,30 +1,28 @@
-<div align="center">
+<!-- studio:settings user=Ais-KSA theme=dark hl=3 border=show follow=on light=rose -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0B,50:344C3F,100:819988&height=190&section=header&text=AIS&fontSize=58&fontColor=D6DFD2&fontAlignY=35&desc=CHEMISTRY%20%E2%80%A2%20CODE%20%E2%80%A2%20CURIOSITY&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="AIS"/>
+<!-- studio:banner after=0 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-dark.svg?text=AIS&shape=shark&paint=theme&animation=fadeIn&section=header&height=129&fontSize=41" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-light.svg?text=AIS&shape=shark&paint=theme&animation=fadeIn&section=header&height=129&fontSize=41" alt="AIS" />
+  </picture>
+</p>
 
-<br/>
+<!-- studio:image -->
+<p align="center">
+  <a href="https://pin.it/To5DkL2aq"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" alt="Mona loading" width="66%" />
+  </picture></a>
+</p>
 
-<img src="./intro.gif" width="600" alt="Profile animation"/>
+<!-- studio:split w=40.a -->
+<table>
+  <tr>
+    <td width="40%" valign="top">
 
-<br/><br/>
+### About me
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3500&pause=1800&color=9BB3A1&center=true&vCenter=true&width=650&height=65&lines=A+calm+mind+in+a+chaotic+world." alt="Typing Animation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CHEMISTRY-344C3F?style=for-the-badge&logo=moleculer&logoColor=D6DFD2" alt="Chemistry"/>
-<img src="https://img.shields.io/badge/PYTHON-344C3F?style=for-the-badge&logo=python&logoColor=D6DFD2" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-344C3F?style=for-the-badge&logo=cplusplus&logoColor=D6DFD2" alt="C++"/>
-
-</div>
-
-<br/>
-
----
-
-### 01. ABOUT ME
-
-```yaml
 Name: Ais
 Field: Chemistry
 Interests:
@@ -33,39 +31,67 @@ Interests:
   - Scientific Exploration
   - Technology
 
-Philosophy: "A calm mind in a chaotic world."
-```
+<img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
 
----
+<img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
+</td>
+    <td width="60%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-stats-dark.svg?show_icons=true" />
+        <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-stats-light.svg?show_icons=true" alt="GitHub stats" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-### 02. THE TOOLKIT
+<!-- studio:langs+streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-langs-dark.svg?layout=compact&langs_count=8" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-langs-light.svg?layout=compact&langs_count=8" alt="Top languages" width="50%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-streak-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-streak-light.svg" alt="GitHub streak" width="50%" />
+  </picture>
+</p>
 
-<div align="center">
+<!-- studio:divider -->
+<hr />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,github,vscode&theme=dark" alt="Technical skills"/>
+<!-- studio:stack per=10 -->
+<h3 align="center">Tools I use</h3>
 
-<br/><br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/stack-dark.svg?i=linux%2Cpy&perline=11" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/stack-light.svg?i=linux,py&perline=11" alt="Tech stack: linux, py" />
+  </picture>
+</p>
 
-`Chemistry` &nbsp; / &nbsp; `Python` &nbsp; / &nbsp; `C++`
+<p align="center">
+  <b>Tools</b><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/stack-tools-dark.svg?i=vscode%2Cgit%2Cgithub%2Cnotion%2Ccpp&perline=10" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/stack-tools-light.svg?i=vscode,git,github,notion,cpp&perline=10" alt="Tools: vscode, git, github, notion, cpp" />
+  </picture>
+</p>
 
-</div>
+<!-- studio:divider -->
+<hr />
 
----
+<!-- studio:achievements -->
+### Achievements
 
-### 03. GITHUB ANALYTICS
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw: Closed an issue or pull request within 5 minutes of opening it" width="64" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" title="YOLO: Merged a pull request without a review" width="64" />
+</p>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ais-KSA&show_icons=true&hide_border=true&bg_color=080D0B&title_color=9BB3A1&text_color=D6DFD2&icon_color=819988&ring_color=819988" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ais-KSA&layout=compact&hide_border=true&bg_color=080D0B&title_color=9BB3A1&text_color=D6DFD2" alt="Most used languages"/>
-
-</div>
-
----
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ais-KSA&layout=compact&hide_border=true&bg_color=080D0B&title_color=9BB3A1&text_color=D6DFD2" alt="Most used languages"/>
-
-</div>
-
----
-
+<!-- studio:activity -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-activity-dark.svg?area=true" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-activity-light.svg?area=true" alt="Activity graph" />
+  </picture>
+</p>
