@@ -10,10 +10,10 @@
 
 <!-- studio:image -->
 <p align="center">
-  <a href="https://pin.it/To5DkL2aq"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" />
-    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" alt="Mona loading" width="66%" />
-  </picture></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ais-KSA/Ais-KSA/blob/main/asdf.gif?raw=true" />
+    <img src="https://github.com/Ais-KSA/Ais-KSA/blob/main/asdf.gif?raw=true" alt="Mona loading" width="75%" />
+  </picture>
 </p>
 
 <!-- studio:split w=40.a -->
@@ -94,4 +94,12 @@ Interests:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-activity-dark.svg?area=true" />
     <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/card-activity-light.svg?area=true" alt="Activity graph" />
   </picture>
+</p>
+
+<!-- studio:image -->
+<p align="center">
+  <a href="https://pin.it/To5DkL2aq"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/3a6a5f6397eefb43feebb4d03ffc82e45c3f1918/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.gif" alt="Mona loading" width="66%" />
+  </picture></a>
 </p>
