@@ -3,8 +3,8 @@
 <!-- studio:banner after=0 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-dark.svg?text=1.618%20%CF%86%20&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" />
-    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-light.svg?text=1.618%20%CF%86%20&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" alt="1.618 φ " />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-dark.svg?text=1.618%20%CE%A6&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-light.svg?text=1.618%20%CE%A6&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" alt="1.618 Φ" />
   </picture>
 </p>
 
