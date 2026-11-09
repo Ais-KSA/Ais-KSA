@@ -3,8 +3,8 @@
 <!-- studio:banner after=0 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-dark.svg?text=AIS&shape=shark&paint=theme&animation=fadeIn&section=header&height=129&fontSize=41" />
-    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-light.svg?text=AIS&shape=shark&paint=theme&animation=fadeIn&section=header&height=129&fontSize=41" alt="AIS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-dark.svg?text=73.48%20%25%20&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" />
+    <img src="https://raw.githubusercontent.com/Ais-KSA/Ais-KSA/main/profile-assets/banner-light.svg?text=73.48%20%25%20&shape=cylinder&paint=theme&section=header&height=126&fontSize=57" alt="73.48 % " />
   </picture>
 </p>
 
